@@ -12693,22 +12693,6 @@ return jQuery;
 }(jQuery);
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
@@ -12742,9 +12726,11 @@ function aboutScroll() {
     let year = age_dt.getUTCFullYear();  
     let age = Math.abs(year - 1970);  
     let aboutList = [
+	  "Google Cloud Architect.",
+	  "Entrepreneur.",
 	  "Technical Solutions Engineer.",
       "Digital Marketing Specialist.",
-      "Web App Developer.",
+      "Full stack Developer.",
       "Pianist.",
       "Snowboarder.",
       "Rock Climber.",
